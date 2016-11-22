@@ -1,0 +1,15 @@
+<?xml version="1.0" ?><local>
+	<software>
+		<version value="1.1.1"/>
+		<type value="alpha"/>
+		<userType value="alpha"/>
+		<betaVersion value="0"/>
+		<alphaVersion value="5"/>
+		<updatesOn value="True"/>
+	</software>
+	<details>
+		<gitURL value="https://github.com/brunoaandrade/BeeConnectUpdate.git"/>
+		<repositoryDir value="git"/>
+		<closeToUpdate value="False"/>
+	</details>
+</local>
